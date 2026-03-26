@@ -20,7 +20,7 @@ To write a C program to perform basic left and right shift operations on a given
 ```
 /*
 C program to perform basic left and right shift operations on a given integer and display the result.
-Developed by: Esaki Muthu E
+Developed by: Ragupathi Raj M
 RegisterNumber:  212222060185
 */
 #include <stdio.h>
